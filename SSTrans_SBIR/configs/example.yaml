@@ -1,0 +1,6 @@
+dataset:
+  name: sketchy
+  path: /path/to/sketchy
+training:
+  epochs: 50
+  batch_size: 16

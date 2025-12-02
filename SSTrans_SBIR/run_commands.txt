@@ -1,0 +1,4 @@
+# Example run commands
+python train.py --config configs/chairv2_train.yaml --save_dir checkpoints/chairv2_run1 --epochs 30
+python eval.py --checkpoint checkpoints/chairv2_run1/epoch_30.pth --data_root /path/to/chairv2
+python visualize.py --checkpoint checkpoints/chairv2_run1/epoch_30.pth --sketch examples/sketch1.png
