@@ -62,7 +62,7 @@ It is the user's responsibility to run the training scripts on appropriate hardw
 
 Citation: If you use this code, please cite:
 
-title = {Bridging the Sketch–Photo Domain Gap: An Attention-Augmented Framework for Fine-Grained Image Retrieval},
+title = {Cross-Modal Spectral–Spatial Transformer for Fine-Grained SBIR},
 
 author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
 
