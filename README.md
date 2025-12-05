@@ -66,7 +66,7 @@ title = {Cross-Modal Spectral–Spatial Transformer for Fine-Grained SBIR},
 
 author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
 
-journal = {....}, year = {2025} }
+journal = {arabian journal for science and engineering springer}, year = {2025} }
 
 License: This project is released under the MIT License.
 
