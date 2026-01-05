@@ -68,6 +68,4 @@ author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
 
 journal = {neurocomputing journal elsevier}, year = {2026} }
 
-License: This project is released under the MIT License.
-
 Contact: almohmdy30@gmail.com GitHub: https://github.com/mohammedalmohmdy
