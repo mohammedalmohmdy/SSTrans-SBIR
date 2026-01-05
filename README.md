@@ -66,7 +66,7 @@ title = {Cross-Modal Spectral–Spatial Transformer for Fine-Grained SBIR},
 
 author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
 
-journal = {Journal of Visual Communication and Image Representation}, year = {2025} }
+journal = {neurocomputing journal elsevier}, year = {2026} }
 
 License: This project is released under the MIT License.
 
