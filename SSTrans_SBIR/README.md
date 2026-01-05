@@ -66,6 +66,6 @@ title = {Cross-Modal Spectral–Spatial Transformer for Fine-Grained SBIR},
 
 author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
 
-journal = {neurocomputing journal elsevier}, year = {2025} }
+journal = {neurocomputing journal elsevier}, year = {2026} }
 
 Contact: almohmdy30@gmail.com GitHub: https://github.com/mohammedalmohmdy
